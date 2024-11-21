@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Calculator</string>
     <string name="ac">AC</string>
+    <string name="category">Category</string>
+
+    <string-array name="Languages">
+        <item>Kotlin</item>
+        <item>C#</item>
+        <item>Java</item>
+    </string-array>
 </resources>
